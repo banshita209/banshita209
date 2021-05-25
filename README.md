@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{banshita209}/count.svg) 
 

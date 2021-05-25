@@ -19,7 +19,7 @@ An eager student who is constantly looking for opportunities to grow and learn n
 
 ![Profile views](https://gpvc.arturio.dev/banshita209)  
 
-<center>![GitHub stats](https://github-readme-stats.vercel.app/api?username=banshita209&show_icons=true&count_private=true)  </center>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=banshita209&show_icons=true&count_private=true) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=banshita209&show_icons=true&locale=en&layout=compact" alt="banshita209" /></p>
 

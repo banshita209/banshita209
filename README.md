@@ -1,7 +1,6 @@
 <img src="banner.png" alt="banner"/>
 
-### Hi there 👋:wave:
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!--
 **banshita209/banshita209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,15 @@
 <img src="banner.png" alt="banner"/>
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there 👋, I am Banshita Gangwar
+#### just an eager student.
+![just an eager student.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am an engineering student who is currently in her final year and eagerly looking for opportunities to throw and gain some. knowledge.
+
+Skills: Java | Python | C | PHP | HTML/CSS
+
+- 🔭 I’m currently working on this page. 
 <!--
 **banshita209/banshita209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

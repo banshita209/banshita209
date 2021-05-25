@@ -1,8 +1,10 @@
-<img src="banner.png" alt="banner"/>
+
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Banshita Gangwar
+<hr> 
 #### just an eager student.
-![just an eager student.]
+<img src="banner.png" alt="banner"/>
+
 
 I am an engineering student who is currently in her final year and eagerly looking for opportunities to throw and gain some. knowledge.
 

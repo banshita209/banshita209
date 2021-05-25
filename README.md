@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=banshita209&color=dc143c)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohank2502&layout=compact)](https://github.com/rohank2502/github-readme-stats)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{banshita209}/count.svg) 

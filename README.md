@@ -2,7 +2,7 @@
 
 ### Hi there <!--👋--> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am Banshita Gangwar
 #### A Passionate java Developer
-![A Passionate java Developer](https://github.com/banshita209/banshita209/blob/master/banner.png)
+![A Passionate java Developer](https://github.com/banshita209/banshita209/blob/master/banner1.png)
 
 An eager student who is constantly looking for opportunities to grow and learn new things
 <hr>

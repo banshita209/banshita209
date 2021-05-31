@@ -25,8 +25,7 @@ An eager student who is constantly looking for opportunities to grow and learn n
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=banshita209&show_icons=true&count_private=true) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=banshita209&show_icons=true&locale=en&layout=compact&langs_count=8" alt="banshita209" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banshita209&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=banshita209&show_icons=true&locale=en&layout=compact&langs_count=10" alt="banshita209" /></p>
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=banshita209)  

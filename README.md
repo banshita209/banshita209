@@ -7,9 +7,8 @@
 An eager student who is constantly looking for opportunities to grow and learn new things
 - 🔭 I’m currently studing at Aditya Silver Institute of Technology.
 - 🌱 I’m currently learning Machine Learning.
-- 💬 Ask me about anything you like, I will help as much as I can .
+- 💬 Ask me about anything you like, I will help as much as I can .   
 - 📫 How to reach me: By using either of the below mention social media.
-- 
 <hr>
 
 <!--<h3 align="left">Languages and Tools:</h3>-->

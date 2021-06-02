@@ -30,6 +30,8 @@ An eager student who is constantly looking for opportunities to grow and learn n
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=banshita209)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=banshita209)  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=banshita209&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 

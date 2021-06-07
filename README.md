@@ -1,12 +1,12 @@
 
 
 ### Hi there <!--👋--> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am Banshita Gangwar
-#### A Passionate java Developer
+#### A Passionate student
 ![A Passionate java Developer](https://github.com/banshita209/banshita209/blob/master/banner1.png)
 
 An eager student who is constantly looking for opportunities to grow and learn new things
 - 🔭 I’m currently studing at Aditya Silver Institute of Technology.
-- 🌱 I’m currently learning Machine Learning, django.
+- 🌱 I’m currently learning Machine Learning, Django,Spring.
 - 💬 Ask me about anything you like, I will help as much as I can .   
 - 📫 How to reach me: By using either of the below mention social media.
 <hr>
